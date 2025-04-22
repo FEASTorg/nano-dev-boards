@@ -8188,7 +8188,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical"
 			(at 71.12 41.91 0)
 			(effects
 				(font
@@ -8909,7 +8909,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical"
 			(at 41.91 41.91 0)
 			(effects
 				(font
@@ -9046,28 +9046,28 @@
 			)
 		)
 		(pin "1"
-			(uuid "59a0b238-61dc-422d-97db-23c086888a27")
+			(uuid "59a0b238-61dc-422d-97db-23c086888a28")
 		)
 		(pin "8"
-			(uuid "ff2e3d8c-3d61-4d37-a5e9-7466d18c5600")
+			(uuid "ff2e3d8c-3d61-4d37-a5e9-7466d18c5601")
 		)
 		(pin "7"
 			(uuid "1998816d-00a6-4ae9-ae51-c141333ad6bf")
 		)
 		(pin "4"
-			(uuid "986e402a-d2d1-4118-8b94-fc93169422b6")
+			(uuid "986e402a-d2d1-4118-8b94-fc93169422b7")
 		)
 		(pin "3"
-			(uuid "a0877eb2-196c-4a31-8cf9-4ec10fb67fa0")
+			(uuid "a0877eb2-196c-4a31-8cf9-4ec10fb67fa1")
 		)
 		(pin "2"
 			(uuid "b0da22f0-7d5c-4815-9d8c-15406b4e62ab")
 		)
 		(pin "6"
-			(uuid "f1276480-b79f-42df-8d94-0b7ece74d49b")
+			(uuid "f1276480-b79f-42df-8d94-0b7ece74d49c")
 		)
 		(pin "5"
-			(uuid "5ddc066d-ebc5-44f9-83f9-9d72898a2424")
+			(uuid "5ddc066d-ebc5-44f9-83f9-9d72898a2425")
 		)
 		(instances
 			(project "nano_original"
@@ -10098,22 +10098,22 @@
 			(uuid "f39e4e49-ed89-4dc7-b519-2319a1a797c0")
 		)
 		(pin "6"
-			(uuid "034ca10f-3a4c-4930-8a8a-0b2acd6aedc0")
+			(uuid "034ca10f-3a4c-4930-8a8a-0b2acd6aedc1")
 		)
 		(pin "7"
-			(uuid "2f4886c6-d9ad-48e9-b7ff-5e53e1e4b9b8")
+			(uuid "2f4886c6-d9ad-48e9-b7ff-5e53e1e4b9b9")
 		)
 		(pin "2"
-			(uuid "585306f3-f199-4058-92bc-c030a8596056")
+			(uuid "585306f3-f199-4058-92bc-c030a8596057")
 		)
 		(pin "4"
-			(uuid "b55fdd7f-ecef-4aa4-981b-affcaa48a3e9")
+			(uuid "b55fdd7f-ecef-4aa4-981b-affcaa48a3ea")
 		)
 		(pin "5"
-			(uuid "d9c1e542-62c5-4e93-92aa-f586ae21d890")
+			(uuid "d9c1e542-62c5-4e93-92aa-f586ae21d891")
 		)
 		(pin "3"
-			(uuid "c445aa94-72f9-49de-abd8-3d8434c61fcb")
+			(uuid "c445aa94-72f9-49de-abd8-3d8434c61fcc")
 		)
 		(instances
 			(project ""
@@ -10943,28 +10943,28 @@
 			)
 		)
 		(pin "7"
-			(uuid "cb087cd6-fcaf-4263-923e-b7c9090f6842")
+			(uuid "cb087cd6-fcaf-4263-923e-b7c9090f6843")
 		)
 		(pin "3"
 			(uuid "32ff4696-4602-4f68-9a79-fd1dfd0636ec")
 		)
 		(pin "4"
-			(uuid "72cacb90-825a-4ecb-af47-aad345561a61")
+			(uuid "72cacb90-825a-4ecb-af47-aad345561a62")
 		)
 		(pin "2"
-			(uuid "72b28783-3e5d-469a-b880-24c77396bc3d")
+			(uuid "72b28783-3e5d-469a-b880-24c77396bc3e")
 		)
 		(pin "1"
-			(uuid "5924d562-1902-4361-b37a-d4515152ab24")
+			(uuid "5924d562-1902-4361-b37a-d4515152ab25")
 		)
 		(pin "5"
-			(uuid "b39cea35-f136-4966-80bd-2b173e22bb67")
+			(uuid "b39cea35-f136-4966-80bd-2b173e22bb68")
 		)
 		(pin "6"
 			(uuid "22d23765-adc9-44a4-9df0-e2a675ef7de0")
 		)
 		(pin "8"
-			(uuid "370ab953-e91e-4a47-8548-006e5b401959")
+			(uuid "370ab953-e91e-4a47-8548-006e5b40195a")
 		)
 		(instances
 			(project ""
@@ -11453,28 +11453,28 @@
 			)
 		)
 		(pin "6"
-			(uuid "bd70daee-8493-47dc-9945-8ea6a21c7611")
+			(uuid "bd70daee-8493-47dc-9945-8ea6a21c7612")
 		)
 		(pin "5"
 			(uuid "090e6c31-93b5-4201-9beb-d97ea31807a0")
 		)
 		(pin "2"
-			(uuid "9cc3ff80-8433-412d-855a-908e8ab805ae")
+			(uuid "9cc3ff80-8433-412d-855a-908e8ab805af")
 		)
 		(pin "8"
-			(uuid "9dd4dbce-2871-43a7-81e0-5e782146cc50")
+			(uuid "9dd4dbce-2871-43a7-81e0-5e782146cc51")
 		)
 		(pin "1"
-			(uuid "b603aaf1-8b65-4230-ba42-78acf3b10c0e")
+			(uuid "b603aaf1-8b65-4230-ba42-78acf3b10c0f")
 		)
 		(pin "3"
-			(uuid "282027c4-aa3f-44d7-a1cd-b8536feaebf6")
+			(uuid "282027c4-aa3f-44d7-a1cd-b8536feaebf7")
 		)
 		(pin "4"
 			(uuid "83a5f317-c4e1-441b-8588-e0bc22bba23b")
 		)
 		(pin "7"
-			(uuid "17236cce-6462-45d8-977b-66ec493cce5f")
+			(uuid "17236cce-6462-45d8-977b-66ec493cce60")
 		)
 		(instances
 			(project ""
@@ -11576,7 +11576,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1000P"
 			(at 130.81 38.1 0)
 			(effects
 				(font
@@ -12521,7 +12521,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ATmega328P-M"
+		(property "Value" "ATmega328P-MUR"
 			(at 222.504 156.464 0)
 			(effects
 				(font
