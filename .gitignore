@@ -1,0 +1,36 @@
+# ----------------------------------------------------
+# KiCad project .gitignore
+# ----------------------------------------------------
+# Ignore backup, autosave, cache and generated files
+*-backups/
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.sch-bak
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+/build/
+
+# Netlist, autorouter, export artefacts
+*.net
+*.dsn
+*.ses
+*.cmp
+*.xml
+
+# Unwanted logs, raw files
+*.log
+*.raw
+.svg2shenzhen-cache
+
+# OS/editor metadata (optional, if not already in global gitignore)
+.DS_Store
+Thumbs.db
+__MACOSX/
