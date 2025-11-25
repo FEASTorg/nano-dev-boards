@@ -8506,7 +8506,7 @@
 			(uuid "5493b5d7-0ab7-4206-80f2-9d0582c373f7")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J9")
 					(unit 1)
@@ -8581,7 +8581,7 @@
 			(uuid "4d78e928-d381-4156-a95c-ef0532c402c4")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J36")
 					(unit 1)
@@ -8646,7 +8646,7 @@
 			(uuid "cbb86a34-2097-4d99-a2c7-e19938e6e1a3")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR019")
 					(unit 1)
@@ -8711,7 +8711,7 @@
 			(uuid "cf28cec0-f1a6-46c1-9c7e-50c7a002342a")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR017")
 					(unit 1)
@@ -8776,7 +8776,7 @@
 			(uuid "1b12e48e-2cb8-4b63-b77c-c3d89f934c94")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR034")
 					(unit 1)
@@ -8851,7 +8851,7 @@
 			(uuid "16305474-23b5-4739-8008-7bb715d55aa4")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J28")
 					(unit 1)
@@ -8920,7 +8920,7 @@
 			(uuid "c97129fe-5ded-4f63-8e29-088d2b0b6023")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J23")
 					(unit 1)
@@ -8985,7 +8985,7 @@
 			(uuid "152fc900-1c4b-4cbf-9904-fbc5d8e2d266")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR029")
 					(unit 1)
@@ -9050,7 +9050,7 @@
 			(uuid "a5a9fc08-a009-475a-9f27-a63e0dea1fce")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR012")
 					(unit 1)
@@ -9118,7 +9118,7 @@
 			(uuid "e1d92d9f-6a71-4e13-b24e-db856dee63ed")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J13")
 					(unit 1)
@@ -9196,7 +9196,7 @@
 			(uuid "e9ae871f-4f7e-4484-b40f-81cc7aef6933")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J24")
 					(unit 1)
@@ -9261,7 +9261,7 @@
 			(uuid "d646f6a3-8711-4ad6-aa95-82e373add56c")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR030")
 					(unit 1)
@@ -9330,7 +9330,7 @@
 			(uuid "aa3e8287-7d93-45e8-a2f0-59a966b700ca")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "C5")
 					(unit 1)
@@ -9419,7 +9419,7 @@
 			(uuid "e1485f56-5773-4c98-97c5-9365e3899991")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J12")
 					(unit 1)
@@ -9494,7 +9494,7 @@
 			(uuid "a24dbf85-28e0-4389-a445-710b6355171c")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J32")
 					(unit 1)
@@ -9559,7 +9559,7 @@
 			(uuid "52e7f659-f08b-4a58-b2fb-8473294adedf")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR06")
 					(unit 1)
@@ -9634,7 +9634,7 @@
 			(uuid "e6389c9f-eeb2-4cbe-bf4e-1f96615b9c33")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J27")
 					(unit 1)
@@ -9699,7 +9699,7 @@
 			(uuid "11555777-8d53-409d-b5d3-155466dff70c")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR05")
 					(unit 1)
@@ -9765,7 +9765,7 @@
 			(uuid "d0632f2f-27af-4329-a31d-8ed531f73b24")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR041")
 					(unit 1)
@@ -9830,7 +9830,7 @@
 			(uuid "c026bf68-80b8-4a0b-9c19-4a7279a1c437")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR028")
 					(unit 1)
@@ -9898,7 +9898,7 @@
 			(uuid "e80ceb21-42ae-4d72-938c-88421e935fe4")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J5")
 					(unit 1)
@@ -9963,7 +9963,7 @@
 			(uuid "ead82f73-a882-4cdb-b9fe-743f88394ffe")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR037")
 					(unit 1)
@@ -10052,7 +10052,7 @@
 			(uuid "f34ec3fa-7ea2-4670-bcc2-9b825a78adbb")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J20")
 					(unit 1)
@@ -10121,7 +10121,7 @@
 			(uuid "ab104fed-9c55-441d-b692-dc179ae43a3a")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J22")
 					(unit 1)
@@ -10199,7 +10199,7 @@
 			(uuid "729a5126-27c5-405a-8280-3da87ae88609")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J21")
 					(unit 1)
@@ -10273,7 +10273,7 @@
 			(uuid "1712e4e1-12ce-4282-a820-7e5db08db41a")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J17")
 					(unit 1)
@@ -10342,7 +10342,7 @@
 			(uuid "2d36edaf-6d6b-4d97-b656-35766e902c6e")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "C8")
 					(unit 1)
@@ -10431,7 +10431,7 @@
 			(uuid "725e72f7-8543-4420-a57d-e01e46ecad9c")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J29")
 					(unit 1)
@@ -10506,7 +10506,7 @@
 			(uuid "b399c5b0-eebc-4316-82d4-2501f232b70e")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J35")
 					(unit 1)
@@ -10571,7 +10571,7 @@
 			(uuid "2e7d639d-2a04-4f9e-8e95-1f82564c7e93")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR036")
 					(unit 1)
@@ -10640,7 +10640,7 @@
 			(uuid "8e320a6e-19b0-4d21-9be5-43f3041c1b30")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "C1")
 					(unit 1)
@@ -10705,7 +10705,7 @@
 			(uuid "540864d9-b409-418c-8ac3-79cf570382f2")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR04")
 					(unit 1)
@@ -10851,7 +10851,7 @@
 			(uuid "4298a23b-d4f9-4205-a173-b2344d0cc739")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J6")
 					(unit 1)
@@ -10916,7 +10916,7 @@
 			(uuid "1dc66796-fdcf-4313-ab33-5c851b746900")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR01")
 					(unit 1)
@@ -10981,7 +10981,7 @@
 			(uuid "36906662-bc9b-41c1-b494-65e76b4a3cfb")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR02")
 					(unit 1)
@@ -11055,7 +11055,7 @@
 			(uuid "9d2011db-79e9-4c94-97c3-425efea8ecd3")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J2")
 					(unit 1)
@@ -11120,7 +11120,7 @@
 			(uuid "4467ab5d-a43e-457a-915d-9e8ce3f3e341")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR016")
 					(unit 1)
@@ -11185,7 +11185,7 @@
 			(uuid "d646f6a3-8711-4ad6-aa95-82e373add56c")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR08")
 					(unit 1)
@@ -11250,7 +11250,7 @@
 			(uuid "c416a7aa-631e-44c1-a31d-1321d34a5108")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR013")
 					(unit 1)
@@ -11399,7 +11399,7 @@
 			(uuid "a7066817-51fa-4030-94cc-46905060f84a")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J31")
 					(unit 1)
@@ -11789,7 +11789,7 @@
 			(uuid "66951b72-3f9c-473d-b06a-936c7430747b")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "SW2")
 					(unit 1)
@@ -11857,7 +11857,7 @@
 			(uuid "8b08f8b9-b439-4dde-92bb-d779546a2058")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J19")
 					(unit 1)
@@ -11927,7 +11927,7 @@
 			(uuid "8f566133-17d9-4f88-9f95-e5d7608106db")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "C6")
 					(unit 1)
@@ -11992,7 +11992,7 @@
 			(uuid "a87ff1b6-4ab9-4abf-8178-e97d6caa96f6")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR010")
 					(unit 1)
@@ -12066,7 +12066,7 @@
 			(uuid "31beb476-a65d-4553-82e6-8456a8b66813")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J3")
 					(unit 1)
@@ -12140,7 +12140,7 @@
 			(uuid "d6427c98-58a7-4b08-92e4-35f6c84800c2")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J11")
 					(unit 1)
@@ -12205,7 +12205,7 @@
 			(uuid "44ce9a84-e4fb-42ef-bc42-31484c064c40")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR035")
 					(unit 1)
@@ -12279,7 +12279,7 @@
 			(uuid "2f396987-448c-40e2-b363-610b795a0c23")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J4")
 					(unit 1)
@@ -12344,7 +12344,7 @@
 			(uuid "ba18e9fd-583f-4ba5-9f47-2dab02e59739")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR09")
 					(unit 1)
@@ -12409,7 +12409,7 @@
 			(uuid "d7a689e6-90af-48d0-aaf8-ba07bca6d5d9")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR032")
 					(unit 1)
@@ -12610,7 +12610,7 @@
 			(uuid "500af1ce-9cc2-424f-88c3-806cfbc3604e")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#FLG04")
 					(unit 1)
@@ -12679,7 +12679,7 @@
 			(uuid "e6a4389c-80d0-45df-9996-13b2d37cd526")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J26")
 					(unit 1)
@@ -12816,7 +12816,7 @@
 			(uuid "42dee3e5-5a3a-43cb-b5e4-22d66755a944")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "C2")
 					(unit 1)
@@ -12946,7 +12946,7 @@
 			(uuid "d802cd60-d50b-4b41-84b8-55ee8ed9f365")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR014")
 					(unit 1)
@@ -13012,7 +13012,7 @@
 			(uuid "2951dc61-0537-46a2-986b-7e9628b82daa")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR031")
 					(unit 1)
@@ -13077,7 +13077,7 @@
 			(uuid "19213ace-ff66-4479-9664-870e93fdce8e")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR015")
 					(unit 1)
@@ -13142,7 +13142,7 @@
 			(uuid "0a4bb2df-2c98-4608-851c-bbae6acf76ba")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#FLG02")
 					(unit 1)
@@ -13207,7 +13207,7 @@
 			(uuid "921138ae-508f-47ba-81b4-5c8edf0d21ad")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR022")
 					(unit 1)
@@ -13296,7 +13296,7 @@
 			(uuid "e4cacfc4-a7cb-42cb-b7c8-f6aef1b75ea0")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J18")
 					(unit 1)
@@ -13361,7 +13361,7 @@
 			(uuid "072a17a2-6510-4bed-ae54-a1f1c9b0ae0f")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR033")
 					(unit 1)
@@ -13435,7 +13435,7 @@
 			(uuid "23c09ba5-dc8e-47eb-9917-d1548dd8afc6")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J15")
 					(unit 1)
@@ -13500,7 +13500,7 @@
 			(uuid "ced01a45-adfc-4d36-b933-d78785ea01db")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR023")
 					(unit 1)
@@ -13570,7 +13570,7 @@
 			(uuid "00cad093-3a37-4db6-ae04-e1552bc347e6")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "C7")
 					(unit 1)
@@ -13635,7 +13635,7 @@
 			(uuid "839e07cd-ea24-4332-a86c-8a6a951782c2")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR039")
 					(unit 1)
@@ -13700,7 +13700,7 @@
 			(uuid "2ea88e4d-f15a-4d40-9c80-78f0c33e0d46")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#FLG01")
 					(unit 1)
@@ -13841,7 +13841,7 @@
 			(uuid "7dbb6c74-7dbd-4610-8662-0d0fb07f8b4a")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J14")
 					(unit 1)
@@ -13915,7 +13915,7 @@
 			(uuid "6d5ff77b-651e-4401-a3c9-38bc945253c5")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J1")
 					(unit 1)
@@ -13993,7 +13993,7 @@
 			(uuid "8a07bab4-17b6-44e6-89cc-9bc5de85f7a8")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J30")
 					(unit 1)
@@ -14058,7 +14058,7 @@
 			(uuid "d9a75387-13be-4e4f-b1d8-073f119066f3")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR020")
 					(unit 1)
@@ -14124,7 +14124,7 @@
 			(uuid "2d773a05-309a-40e2-96ba-036e66a4906c")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR040")
 					(unit 1)
@@ -14198,7 +14198,7 @@
 			(uuid "db505c56-5212-4934-9cec-993b4edcb78d")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J16")
 					(unit 1)
@@ -14263,7 +14263,7 @@
 			(uuid "b3946493-5ac4-46cb-8084-23a946866935")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR025")
 					(unit 1)
@@ -14458,7 +14458,7 @@
 			(uuid "de630f04-a63e-4cd0-ad9d-3a0b040b840b")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR018")
 					(unit 1)
@@ -14523,7 +14523,7 @@
 			(uuid "e4016287-046a-4d7d-928f-47c0498d613e")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR021")
 					(unit 1)
@@ -14588,7 +14588,7 @@
 			(uuid "ccaecf3d-73b5-4e28-b508-34c00ec07c6e")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR038")
 					(unit 1)
@@ -14738,7 +14738,7 @@
 			(uuid "f28914ed-b856-491f-ad78-ba7978c7bcbc")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "SW1")
 					(unit 1)
@@ -14803,7 +14803,7 @@
 			(uuid "ae3e90b7-a3bb-4e21-91cf-d6bb7ee04047")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR011")
 					(unit 1)
@@ -14935,7 +14935,7 @@
 			(uuid "48095e31-d215-4541-87db-5e87357006b7")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "#PWR07")
 					(unit 1)
@@ -15009,7 +15009,7 @@
 			(uuid "95c50505-80ee-4c28-9b84-57a50708e4f5")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "J10")
 					(unit 1)
@@ -15146,7 +15146,7 @@
 			(uuid "a64274d6-e413-4729-b28e-89fb0b9e8771")
 		)
 		(instances
-			(project "nano-shield"
+			(project "nano_shield"
 				(path "/2320dddc-0d7f-48b3-960d-10e5c83b6afd"
 					(reference "R2")
 					(unit 1)

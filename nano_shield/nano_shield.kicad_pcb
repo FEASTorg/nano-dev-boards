@@ -182,7 +182,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/bb4d8b3b-d46f-450e-86d8-7cc11d1bc8fb")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 9)
@@ -428,7 +428,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/a4a67174-c037-4e1b-9307-c66583895a00")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -628,7 +628,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/97f87d4f-daf6-4d39-acf6-d7ef9b92d562")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 9)
@@ -875,7 +875,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/200cd704-a7e8-40fd-a994-50a5b2ff3d39")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 11.54)
@@ -1133,7 +1133,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/31d4a2a7-7a17-41cb-b856-7c1408221644")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 -1.38)
@@ -1379,7 +1379,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/eec68f3b-46f0-4d8d-9b97-d164d8bd155b")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -1579,7 +1579,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/48a0baac-10f3-47d6-a4d8-d8ecf511fc35")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 11.54)
@@ -1839,7 +1839,7 @@
 		(property ki_fp_filters "Arduino*Nano*")
 		(path "/7aea1a43-a266-4602-b1e5-33856991b913")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole allow_missing_courtyard)
 		(fp_line
 			(start 3.68 42.04)
@@ -2573,7 +2573,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/5721d773-b305-414b-9d82-2eb85a25605d")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole allow_missing_courtyard)
 		(fp_line
 			(start 1.38 1.27)
@@ -2797,7 +2797,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/ab6a9545-a209-4eae-8d5d-69d75d52ca61")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -3095,7 +3095,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/4f86fb41-fc46-4fab-a8a9-973e2fea0c19")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 -1.38)
@@ -3341,7 +3341,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/4db29c56-7f0b-44c2-ac04-449b1d01c02e")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
@@ -3541,7 +3541,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/07d7a9fe-36c0-4e6f-858c-e4b61669c7f4")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 -1.38)
@@ -3788,7 +3788,7 @@
 		)
 		(path "/e8dd3338-9392-4459-8b91-6480ca721ec2")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 4.61 -1.91)
@@ -4154,7 +4154,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/2cc04e80-57cf-40d9-abbe-58025feed799")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 -1.38)
@@ -4400,7 +4400,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/c0b3743e-4f5e-478f-81db-248a0118d151")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
@@ -4600,7 +4600,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/b5d3cdfe-a9f2-41ba-992d-48aad02b08ca")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.33 1.27)
@@ -4891,7 +4891,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/80081447-71d2-40ed-a2e2-2e6c991dcb41")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.72 -3.52)
@@ -5230,7 +5230,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/8e8fad22-9942-4615-822d-fd9246ac8a3e")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 9)
@@ -5477,7 +5477,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/634459ca-9742-40bb-a704-4a9b2b2e384c")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 9)
@@ -5724,7 +5724,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/46b5314b-9e67-4bb2-9171-2d040ee4a873")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole allow_missing_courtyard)
 		(fp_line
 			(start -1.38 -1.38)
@@ -6047,7 +6047,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/2c52ed3c-5ab9-4c53-b3cd-57334ac18ed4")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.33 1.27)
@@ -6338,7 +6338,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/53ec4ea4-24f0-4b5a-9ae1-513b3d5cdeb7")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 11.54)
@@ -6596,7 +6596,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/f6b53e2a-44e5-4e1a-b0d4-56f5f7092413")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 9)
@@ -6842,7 +6842,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/52bcdffd-e14e-46d1-a9e8-0fcc9bc67505")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -7041,7 +7041,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/271afad7-bd96-4f7e-8848-05af3dc73850")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -7240,7 +7240,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/ffeed304-2002-4f4d-ae80-3b3e68ca5b91")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -7439,7 +7439,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/f78a856d-c3c2-449b-8f25-8bb6c7d94173")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.345563 3.41)
@@ -7870,7 +7870,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/42f251ff-a006-4cb1-8ca1-7a688076fd6e")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.33 1.27)
@@ -8161,7 +8161,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/a88a79fa-4823-43d0-b86f-b3ba664c9c1b")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole allow_missing_courtyard)
 		(fp_line
 			(start -1.38 -1.38)
@@ -8386,7 +8386,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/c476fdb6-5153-4699-a855-5fce64c4c3e1")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 9)
@@ -8635,7 +8635,7 @@
 		(property ki_fp_filters "BarrelJack*")
 		(path "/e78129dd-3c0a-4575-9038-09df46550145")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -13.8 -4.6)
@@ -9019,7 +9019,7 @@
 		)
 		(path "/81794c16-8d2c-490d-ba80-fbd218a19f66")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 4.61 -1.91)
@@ -9385,7 +9385,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/753a07de-b355-4b67-b865-f609e781a98b")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 -1.38)
@@ -9632,7 +9632,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/81aab5f7-0221-4c15-bee6-2bd37aa173c2")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole allow_missing_courtyard)
 		(fp_line
 			(start 1.38 1.27)
@@ -9954,7 +9954,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8281ab68-c998-4d7e-af95-73d34b2b4935")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -10154,7 +10154,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/0fdb8254-c61f-437d-a921-60fc5e37c9d4")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 -1.38)
@@ -10499,7 +10499,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/cffe3681-3414-44f9-9832-430a3905f83a")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 9)
@@ -10746,7 +10746,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/a81506b5-7644-47f9-a5f5-0bbafcce59ee")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole allow_missing_courtyard)
 		(fp_line
 			(start -1.38 -1.38)
@@ -10971,7 +10971,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/16346195-c606-4ffb-9e3a-225d47b5e652")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole allow_missing_courtyard)
 		(fp_line
 			(start -1.38 -1.38)
@@ -11196,7 +11196,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/49c75c30-0d8a-449f-8361-fc8f820156a0")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 9)
@@ -11443,7 +11443,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/d706be1d-ecab-4291-9c26-52d13bf23595")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 9)
@@ -11690,7 +11690,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/905a2bb2-dc6d-47f0-83fb-3050585f8ec8")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 9)
@@ -11937,7 +11937,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/d234f6d7-2114-4b90-ae54-14da5984326d")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 11.54)
@@ -12195,7 +12195,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/4e5b9e31-7707-4f65-8fa1-fba1de49dbad")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 1.27)
@@ -12513,7 +12513,7 @@
 		(property ki_fp_filters "D*DO?41*")
 		(path "/7d430aea-67f2-4862-b9b9-7d6912f03568")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.21 1)
@@ -12795,7 +12795,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/72afb8d4-deec-4d4b-8246-9a1afb6bd0ef")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 9)
@@ -13042,7 +13042,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/1faaf5eb-26c3-4b2c-96a6-6eed4c682e9f")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole allow_missing_courtyard)
 		(fp_line
 			(start 1.38 1.27)
@@ -13267,7 +13267,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/39518944-ecfe-43b9-8905-8cb55ae70652")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.72 -3.52)
@@ -13606,7 +13606,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/011dc7b9-3413-4433-ab02-9da18afca0e0")
 		(sheetname "/")
-		(sheetfile "nano-shield.kicad_sch")
+		(sheetfile "nano_shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 9)
