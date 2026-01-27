@@ -1,4 +1,4 @@
-# nanos-kicad
+# nano-dev-boards
 
 Nano-format MCU development boards designed in KiCad.
 
