@@ -7011,6 +7011,16 @@
 		)
 		(uuid "432935e1-f2a5-44c2-86c5-aaad0e293863")
 	)
+	(label "TX"
+		(at 127 92.71 180)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify right bottom)
+		)
+		(uuid "45fd742f-0dc5-4f20-8718-de663be24008")
+	)
 	(label "D3"
 		(at 242.57 137.16 180)
 		(effects
@@ -7080,6 +7090,16 @@
 			(justify left bottom)
 		)
 		(uuid "5c800827-33b5-45d9-bc46-fe50740aa84a")
+	)
+	(label "RX"
+		(at 127 90.17 180)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify right bottom)
+		)
+		(uuid "5ff3d762-e8aa-4443-a6da-009a8ea0c479")
 	)
 	(label "A5"
 		(at 91.44 39.37 180)
@@ -7160,26 +7180,6 @@
 			(justify left bottom)
 		)
 		(uuid "7bab8e17-5024-4db7-9d02-191344af1d82")
-	)
-	(label "TX"
-		(at 127 90.17 180)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "8140dc20-8cbc-4c72-9e52-74cf8fc1612d")
-	)
-	(label "RX"
-		(at 127 92.71 180)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "81a6bc30-889e-4b66-9845-033208c83c38")
 	)
 	(label "AREF"
 		(at 189.23 86.36 0)
